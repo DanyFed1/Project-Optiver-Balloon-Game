@@ -24,3 +24,5 @@ Strategy 3 - Progressive Strategy with Reset. (Replication of strategy that help
 Research papers: Lejuez, C.W., Read, J.P., Kahler, C.W., et al. (2002). Evaluation of a behavioral measure of risk-taking: The Balloon Analogue Risk Task (BART). Journal of Experimental Psychology: Applied, 8(2), 75-84.
 
 **Note**: As it stands as of 13.10.2023, I never did Optiver assessments. I am also not knowing the exact conditions of Optiver assessments, so please do not take this notebook as ypur official prep guide. This project was just done because I found it funny that there are many resources online that sell preparations with 1 or 2 simulations of this game for 50$ per month or even more. So, I thought it would be interesting to try to simulate the game within 1 evening or so.
+
+Also, if you have any ideas how to improve these simulations or you notice some fundamental mistakes, please contact me.
